@@ -1,0 +1,29 @@
+h2 {
+  background-color: #89f8d1;
+  color: black;
+  text-align: center;
+  margin: 1rem;
+  padding: 1rem;
+}
+input {
+  border: 1px solid black;
+  padding: 1rem;
+  margin: 1rem;
+  text-decoration: none;
+}
+div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+h3{
+    text-align: center;
+    margin: 0rem;
+    padding: 1rem;
+}
+#sumOfDigits {
+    border: 2px solid #89f8d1;
+    height: 2rem;
+    width: 40%;
+    padding: 10px;
+}
